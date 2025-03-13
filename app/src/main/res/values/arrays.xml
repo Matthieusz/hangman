@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>android</item>
+        <item>kotlin</item>
+        <item>programming</item>
+        <item>computer</item>
+        <item>developer</item>
+        <item>application</item>
+        <item>mobile</item>
+        <item>interface</item>
+        <item>software</item>
+        <item>keyboard</item>
+    </string-array>
+</resources>
